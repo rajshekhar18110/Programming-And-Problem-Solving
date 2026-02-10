@@ -20,4 +20,4 @@ Use π = 3.14 and display the area.
 ---
 
 ## Execution
-<img src="https://github.com/user-attachments/assets/9323d1d8-913a-473f-96ec-fb64f2d5c6a8" width="900"/>
+<img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_1/Area%20Of%20Circle/Area_of-Cicle%20Code.png?raw=true"/>
