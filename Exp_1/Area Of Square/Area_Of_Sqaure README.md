@@ -13,7 +13,7 @@ Write a Python program that prompts the user to enter the Side Length of a squar
 ---
 
 ## Flowchart
-![Flowchart](<"https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_1/Area%20Of%20Square/Area_Of_Sqaure%20Flowchart.png?raw=true" />
+![Flowchart](<https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_1/Area%20Of%20Square/Area_Of_Sqaure%20Flowchart.png?raw=true/>
 )
 
 ---
