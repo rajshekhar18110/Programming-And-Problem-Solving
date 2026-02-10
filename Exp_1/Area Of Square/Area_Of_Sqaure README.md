@@ -20,7 +20,7 @@ Write a Python program that prompts the user to enter the Side Length of a squar
 
 ## Execution
 <p align="center">
-  <img src="Area_Of_Sqare_Execution.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_1/Area%20Of%20Square/Area%20Of%20Square.png?raw=true>
 </p>
 
 
