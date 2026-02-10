@@ -20,7 +20,7 @@ Write a Python program to perform union, intersection and difference operations 
 ---
 
 ## Flowchart
-![Flowchart](Set_Opp.drawio.png)
+![Flowchart](https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_4/Set%20Operations/Set%20Operations.drawio.png?raw=true)
 
 ---
 
