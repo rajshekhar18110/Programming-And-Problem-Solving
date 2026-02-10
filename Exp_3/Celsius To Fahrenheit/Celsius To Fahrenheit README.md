@@ -20,7 +20,7 @@ Write a Python program to convert temperature from Celsius to Fahrenheit.
 
 ## Execution
 <p align="center">
-  <img src="CTF.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_3/Celsius%20To%20Fahrenheit/Celsius%20To%20Fahrenheit%20Code.png?raw=true">
 </p>
 
 
