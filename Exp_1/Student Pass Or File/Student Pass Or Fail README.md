@@ -14,7 +14,7 @@ Write a Python program to determine whether a student passed the exam or not bas
 ---
 
 ## Flowchart
-![Flowchart](Stud_Status.drawio.png)
+![Flowchart](https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_1/Student%20Pass%20Or%20File/Student%20Pass%20Or%20Fail.drawio.png?raw=true)
 
 ---
 
