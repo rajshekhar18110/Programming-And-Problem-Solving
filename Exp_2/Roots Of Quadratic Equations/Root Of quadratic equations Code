@@ -1,0 +1,16 @@
+import math
+a,b,c = map(int,input().split())
+d=b**2-4*a*c
+if d>0:
+	r1=(-b + math.sqrt(d))/(2*a)
+	r2=(-b - math.sqrt(d))/(2*a)
+	print("root1 = %.2f" % r1)
+	print("root2 = %.2f" % r2)
+elif d==0:
+	r=-b/(2*a)
+	print("root1 = root2 = %.2f" % r)
+else:
+	real = -b/(2*a)
+	img = math.sqrt(-d)/(2*a)
+	print("root1 = %.2f+%.2fi" % (real,img))
+	print("root2 = %.2f-%.2fi" % (real,img))
