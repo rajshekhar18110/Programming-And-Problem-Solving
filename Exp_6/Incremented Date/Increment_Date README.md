@@ -55,7 +55,7 @@ Write a Python program to check if a given date is valid. If the date is valid, 
 
 ## Execution
 <p align="center">
-  <img src="Increment date.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_6/Incremented%20Date/Incremented%20Date%20Execution.png?raw=true" width="900">
 </p>
 
 
