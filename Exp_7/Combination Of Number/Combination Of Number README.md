@@ -22,7 +22,7 @@ Write a Python program to accept three digits and print all possible 3-digit com
 
 ## Flowchart
 ![Flowchart](
-Combi.drawio.png)
+https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_7/Combination%20Of%20Number/Combination%20Of%20Number.drawio.png?raw=true)
 
 ---
 
