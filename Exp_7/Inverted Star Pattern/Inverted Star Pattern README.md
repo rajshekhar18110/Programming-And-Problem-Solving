@@ -21,7 +21,7 @@ https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp
 
 ## Execution
 <p align="center">
-  <img src="Pattern.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_7/Inverted%20Star%20Pattern/Inverted%20Star%20Pattern%20Execution.png?raw=true" width="900">
 </p>
 
 
