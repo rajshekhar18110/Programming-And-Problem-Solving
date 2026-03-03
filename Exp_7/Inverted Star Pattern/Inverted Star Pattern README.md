@@ -15,7 +15,7 @@ Write a Python program to print an inverted right-angled triangle star pattern.
 
 ## Flowchart
 ![Flowchart](
-Pattern.drawio.png)
+https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_7/Inverted%20Star%20Pattern/Inverted%20Star%20Pattern.drawio.png?raw=true)
 
 ---
 
