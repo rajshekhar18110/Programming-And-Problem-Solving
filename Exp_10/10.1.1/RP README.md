@@ -29,7 +29,7 @@ RP.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="RP.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_10/10.1.1/Remove%20Punctuation.png?raw=true" width="900">
 </p>
 
 
