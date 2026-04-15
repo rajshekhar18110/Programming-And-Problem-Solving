@@ -29,7 +29,7 @@ Sum.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Sum.png" width="900">
+  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_11/11.1.1/Sum%20Digit.png?raw=true" width="900">
 </p>
 
 
