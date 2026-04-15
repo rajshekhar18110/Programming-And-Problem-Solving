@@ -39,7 +39,7 @@ Matrix.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Matrix.png?raw=true" width="900">
+  <"https://github.com/rajshekhar18110/Programming-And-Problem-Solving/blob/main/Exp_8/8.1.1/Matrix.png?raw=true" width="900">
 </p>
 
 
